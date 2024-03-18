@@ -1,7 +1,7 @@
 const { convert } = require('html-to-text');
 const express = require('express');
 const bodyParser = require('body-parser');
-const removeMD= require('remove-markdown-and-html')
+const removeMd= require('remove-markdown-and-html')
 
 var markdown ="fnbdsjfn"
 
